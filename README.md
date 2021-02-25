@@ -50,8 +50,9 @@
 ##
 #### 小星星簡譜
 * ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
-* Lab6 LCD1202       字串顯示
-* Lab7 DHT11 溫溼度感測器
+* Lab6 DHT11 溫溼度感測器
+* Lab7 LCD1202       字串顯示
+    * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
 * Lab8 光敏電阻
 * Lab9 繼電器
 * Lab10 超音波感測器   電子尺
