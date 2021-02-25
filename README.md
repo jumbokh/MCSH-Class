@@ -35,4 +35,6 @@
 * Lab11 藍芽控制
 * Lab12 手機控制藍芽 LED
 * Lab13 手機控制藍芽+風扇(或牙刷型USB燈)
+* Lab14 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
+* 
 ##
