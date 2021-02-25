@@ -23,10 +23,33 @@
 ##
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
+    * [LED Build IN](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Blink_builtin/Blink_builtin.ino)
+    
 * Lab2 數位輸入      按鈕讀取, 解決彈跳問題, 按鈕切換LED亮滅
+    * [按鈕](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Button/Button.ino)
+    * [LED切換](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Buttonsw/Buttonsw.ino)
+    * ![LED](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-button-sw_bb.jpg)
+    * [解決彈跳](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Debounce/Debounce.ino)
+    * [彈跳 py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/bump.py)
+    * ![bump](https://github.com/jumbokh/esp32-class/blob/master/images/bumping.png)
 * Lab3 呼吸的燈      PWM介紹
+    * [呼吸燈](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/LED_PWM_Example_1.ino)
 * Lab4 指撥開關
+    * ![dip sw](https://github.com/jumbokh/esp32-class/blob/master/images/dip.png)
+    * [sw py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
 * Lab5 蜂鳴器        救護車, 小星星
+    * ![buzzer pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-buzzer_bb.jpg) 
+#### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
+#### Add Library: EasyBuzzer
+* [EZbuzzer Music](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/buzzer-music/buzzer-music.ino)
+* [EZbeep](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZBeep/EZBeep.ino)
+* [EZSequence](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZSequence/EZSequence.ino)
+* [ESP32 Tone](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/ESP32-Tone/ESP32-Tone.ino)
+* [ESP32 Alert](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-Alert/Buzzer-Alert.ino)
+* [ESP32 Bee](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-bee/Buzzer-bee.ino)
+##
+#### 小星星簡譜
+* ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
 * Lab6 LCD1202       字串顯示
 * Lab7 DHT11 溫溼度感測器
 * Lab8 光敏電阻
