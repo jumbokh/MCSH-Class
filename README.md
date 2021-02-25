@@ -1,7 +1,7 @@
 # MCSH-Class
 #### 課程: ESP32 實作業師課程
 #### 時間: 3/2 3/16 3/23 4/6 4/20 4/27週二 13：10-14：50
-#### 材料: [清單]()
+#### 材料: [清單](https://github.com/jumbokh/MCSH-Class/blob/main/%E6%98%8E%E8%AA%A0%E4%B8%AD%E5%AD%B8%E5%AF%A6%E7%BF%92%E6%9D%90%E6%96%99%E9%9C%80%E6%B1%82%E8%A1%A8-%E7%89%A9%E8%81%AF%E7%B6%B2Arduino.doc)
 ##
 ### Outline
 <pre>
