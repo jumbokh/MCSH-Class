@@ -20,6 +20,7 @@
 #### Reference
 * https://github.com/jumbokh/esp32-class
 * https://youyouyou.pixnet.net/blog/post/119410732?pixfrom=related
+* https://randomnerdtutorials.com/getting-started-with-esp32/
 ##
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
