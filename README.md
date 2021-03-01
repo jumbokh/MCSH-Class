@@ -38,7 +38,9 @@
 * Lab4 指撥開關
     * ![dip sw](https://github.com/jumbokh/esp32-class/blob/master/images/dip.png)
     * [sw py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
-* Lab5 蜂鳴器        救護車, 小星星
+* Lab5 類比輸入
+    * [AnalogIn]()
+* Lab6 蜂鳴器        救護車, 小星星
     * ![buzzer pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-buzzer_bb.jpg) 
 #### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
 #### Add Library: EasyBuzzer
@@ -51,16 +53,16 @@
 ##
 #### 小星星簡譜
 * ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
-* Lab6 DHT11 溫溼度感測器
+* Lab7 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
-* Lab7 LCD1202       字串顯示
+* Lab8 LCD1202       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
-* Lab8 光敏電阻
-* Lab9 繼電器
-* Lab10 超音波感測器   電子尺
-* Lab11 藍芽控制
-* Lab12 手機控制藍芽 LED
-* Lab13 手機控制藍芽+風扇(或牙刷型USB燈)
-* Lab14 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
+* Lab9 光敏電阻
+* Lab10 繼電器
+* Lab11 超音波感測器   電子尺
+* Lab12 藍芽控制
+* Lab13 手機控制藍芽 LED
+* Lab14 手機控制藍芽+風扇(或牙刷型USB燈)
+* Lab15 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
 * 
 ##
