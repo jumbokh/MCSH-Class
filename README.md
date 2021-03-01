@@ -21,6 +21,7 @@
 * https://github.com/jumbokh/esp32-class
 * https://youyouyou.pixnet.net/blog/post/119410732?pixfrom=related
 * https://randomnerdtutorials.com/getting-started-with-esp32/
+* https://idyl.io/doit-esp32-development-board-review/
 ##
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
@@ -38,6 +39,7 @@
 * Lab4 指撥開關
     * ![dip sw](https://github.com/jumbokh/esp32-class/blob/master/images/dip.png)
     * [sw py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
+    * [refer](http://blog.ilc.edu.tw/blog/index.php?op=printView&articleId=656348&blogId=868)
 * Lab5 類比輸入
     * [AnalogIn]()
 * Lab6 蜂鳴器        救護車, 小星星
