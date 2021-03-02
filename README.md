@@ -26,26 +26,27 @@
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
     * ![led](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/esp32-led_bb.jpg)
-    * [LED Build IN](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Blink_builtin/Blink_builtin.ino)
+    * [LED Build IN](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/Blink_builtin.ino)
     * ![2led](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/esp32-2led_bb.jpg)
     * [LED Flash](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/LED_Flash/LED_Flash.ino)
     
 * Lab2 數位輸入      按鈕讀取, 解決彈跳問題, 按鈕切換LED亮滅
     * ![btn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/esp32-btnled_bb.jpg)
-    * [按鈕](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Button/Button.ino)
-    * [LED切換](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Buttonsw/Buttonsw.ino)
-    * ![LED](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-button-sw_bb.jpg)
-    * [解決彈跳](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Debounce/Debounce.ino)
+    * [按鈕](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/Button/Button.ino)
+    * [LED切換](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/StateChangeDetection/StateChangeDetection.ino)
+    * [解決彈跳](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/Debounce.ino)
     * [彈跳 py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/bump.py)
     * ![bump](https://github.com/jumbokh/esp32-class/blob/master/images/bumping.png)
 * Lab3 呼吸的燈      PWM介紹
     * [呼吸燈](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/LED_PWM_Example_1.ino)
 * Lab4 指撥開關
-    * ![dip sw](https://github.com/jumbokh/esp32-class/blob/master/images/dip.png)
+    * ![dip sw](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab4DipSwitch/esp32-dip_bb.jpg)
+    * [2dip](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab4DipSwitch/Digitaldipsw/Digitaldipsw.ino)
     * [sw py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
     * [refer](http://blog.ilc.edu.tw/blog/index.php?op=printView&articleId=656348&blogId=868)
 * Lab5 類比輸入
-    * [AnalogIn]()
+    * ![vr](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/esp32-vr_bb.jpg)
+    * [AnalogIn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/analogIn/analogIn.ino)
 * Lab6 蜂鳴器        救護車, 小星星
     * ![buzzer pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-buzzer_bb.jpg) 
 #### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
