@@ -25,9 +25,13 @@
 ##
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
+    * ![led](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/esp32-led_bb.jpg)
     * [LED Build IN](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Blink_builtin/Blink_builtin.ino)
+    * ![2led](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/esp32-2led_bb.jpg)
+    * [LED Flash](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/LED_Flash/LED_Flash.ino)
     
 * Lab2 數位輸入      按鈕讀取, 解決彈跳問題, 按鈕切換LED亮滅
+    * ![btn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/esp32-btnled_bb.jpg)
     * [按鈕](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Button/Button.ino)
     * [LED切換](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/Buttonsw/Buttonsw.ino)
     * ![LED](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-button-sw_bb.jpg)
