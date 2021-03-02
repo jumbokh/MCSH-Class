@@ -23,6 +23,7 @@
 * https://randomnerdtutorials.com/getting-started-with-esp32/
 * https://idyl.io/doit-esp32-development-board-review/
 ##
+* ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
 #### Lab
 * Lab1 數位輸出      Buildin LED, GPIO13 LED, Time Delay
     * ![led](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/esp32-led_bb.jpg)
