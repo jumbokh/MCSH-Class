@@ -39,7 +39,7 @@
     * [彈跳 py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/bump.py)
     * ![bump](https://github.com/jumbokh/esp32-class/blob/master/images/bumping.png)
 * Lab3 呼吸的燈      PWM介紹
-    * [呼吸燈](https://github.com/jumbokh/esp32-class/blob/master/Lab-Arduion/LED_PWM_Example_1.ino)
+    * [呼吸燈](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab3PWM/LED_PWM_Example_1/LED_PWM_Example_1.ino)
 * Lab4 指撥開關
     * ![dip sw](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab4DipSwitch/esp32-dip_bb.jpg)
     * [2dip](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab4DipSwitch/Digitaldipsw/Digitaldipsw.ino)
