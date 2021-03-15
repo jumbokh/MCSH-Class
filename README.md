@@ -32,7 +32,7 @@
     * [LED Flash](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab1LED/LED_Flash/LED_Flash.ino)
     
 * Lab2 數位輸入      按鈕讀取, 解決彈跳問題, 按鈕切換LED亮滅
-    * ![btn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/esp32-btnled_bb.jpg)
+    * ![btn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/esp32-btnled.jpg)
     * [按鈕](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/Button/Button.ino)
     * [LED切換](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/StateChangeDetection/StateChangeDetection.ino)
     * [解決彈跳](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab2Button/Debounce.ino)
