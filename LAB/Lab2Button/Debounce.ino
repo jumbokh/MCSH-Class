@@ -28,8 +28,8 @@
 */
 
 // constants won't change. They're used here to set pin numbers:
-const int buttonPin = 17;    // the number of the pushbutton pin
-const int ledPin = 18;      // the number of the LED pin
+const int buttonPin = 23;    // the number of the pushbutton pin
+const int ledPin = 12;      // the number of the LED pin
 
 // Variables will change:
 int ledState = HIGH;         // the current state of the output pin
