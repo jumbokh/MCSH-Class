@@ -22,6 +22,7 @@
 * https://youyouyou.pixnet.net/blog/post/119410732?pixfrom=related
 * https://randomnerdtutorials.com/getting-started-with-esp32/
 * https://idyl.io/doit-esp32-development-board-review/
+* https://diyi0t.com/active-passive-buzzer-arduino-esp8266-esp32/
 ##
 * ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
 #### Lab
