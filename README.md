@@ -51,11 +51,11 @@
 * Lab6 蜂鳴器        救護車, 小星星
     * ![buzzer pinout](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-buzzer_bb.jpg) 
 #### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
+* [ESP32 Tone](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab6ESP32Tone/Lab6ESP32Tone.ino)
 #### Add Library: EasyBuzzer
 * [EZbuzzer Music](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/buzzer-music/buzzer-music.ino)
 * [EZbeep](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZBeep/EZBeep.ino)
 * [EZSequence](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/EZSequence/EZSequence.ino)
-* [ESP32 Tone](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/ESP32-Tone/ESP32-Tone.ino)
 * [ESP32 Alert](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-Alert/Buzzer-Alert.ino)
 * [ESP32 Bee](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-bee/Buzzer-bee.ino)
 ##
