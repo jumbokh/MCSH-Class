@@ -49,7 +49,7 @@
     * [sw py](https://github.com/jumbokh/esp32-class/blob/master/hs1227/switch-led.py)
     * [refer](http://blog.ilc.edu.tw/blog/index.php?op=printView&articleId=656348&blogId=868)
 * Lab5 類比輸入
-    * ![vr](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/esp32-vr_bb.jpg)
+    * ![vr](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-vr_bb.jpg)
     * [AnalogIn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/analogIn/analogIn.ino)
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
     * [超簡易控制RGB燈條](https://www.youtube.com/watch?v=VLKr5pDQ_rU)
