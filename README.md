@@ -24,6 +24,7 @@
 * https://idyl.io/doit-esp32-development-board-review/
 * https://diyi0t.com/active-passive-buzzer-arduino-esp8266-esp32/
 * https://techtutorialsx.com/2017/07/01/esp32-arduino-controlling-a-buzzer-with-pwm/
+* https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody
 
 ##
 * ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
