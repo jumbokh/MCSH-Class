@@ -75,5 +75,6 @@
 * Lab13 手機控制藍芽 LED
 * Lab14 手機控制藍芽+風扇(或牙刷型USB燈)
 * Lab15 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
-* 
+* Lab16 麥克風實驗
+    * https://diyi0t.com/sound-sensor-arduino-esp8266-esp32/
 ##
