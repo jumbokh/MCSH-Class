@@ -64,7 +64,7 @@
 * ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
 ##
 * Lab7 光敏電阻
-    * ![photoresistor](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-photo_bb.jpg)
+    * ![photoresistor](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/esp32-photo_bb.jpg)
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab8 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
