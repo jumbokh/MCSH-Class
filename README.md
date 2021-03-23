@@ -24,7 +24,7 @@
 * https://idyl.io/doit-esp32-development-board-review/
 * https://diyi0t.com/active-passive-buzzer-arduino-esp8266-esp32/
 * https://techtutorialsx.com/2017/07/01/esp32-arduino-controlling-a-buzzer-with-pwm/
-* https://github.com/lbernstone/Tone32
+
 ##
 * ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
 #### Lab
@@ -55,7 +55,7 @@
     * [超簡易控制RGB燈條](https://www.youtube.com/watch?v=VLKr5pDQ_rU)
 * Lab6 蜂鳴器        救護車, 小星星
     * ![buzzer pinout](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-buzzer_bb.jpg) 
-#### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
+#### Add Library from zip: [Tone32](https://github.com/lbernstone/Tone32)
 * [ESP32 Tone](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab6ESP32Tone/Lab6ESP32Tone.ino)
 * [ESP32 Alert](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab6-1Buzzer-Alert/Lab6-1Buzzer-Alert.ino)
 * [ESP32 Bee](https://github.com/jumbokh/esp32-class/blob/master/hs1206/src/Buzzer-bee/Buzzer-bee.ino)
