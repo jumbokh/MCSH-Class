@@ -49,6 +49,7 @@
 * Lab5 類比輸入
     * ![vr](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/esp32-vr_bb.jpg)
     * [AnalogIn](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab5Analog/analogIn/analogIn.ino)
+    * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab6 蜂鳴器        救護車, 小星星
     * ![buzzer pinout](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-buzzer_bb.jpg) 
 #### Add Library from zip: [Tone32](https://github.com/jumbokh/esp32-class/blob/master/hs1206/lib/Tone32.zip)
