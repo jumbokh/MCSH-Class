@@ -70,17 +70,17 @@
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab8 RC 電路實驗
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
-* Lab8 DHT11 溫溼度感測器
+    * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8RCex/Lab8RCex.ino)
+* Lab9 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
-* Lab9 LCD1202       字串顯示
+* Lab10 LCD1602       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
-
-* Lab10 繼電器
-* Lab11 超音波感測器   電子尺
-* Lab12 藍芽控制
-* Lab13 手機控制藍芽 LED
-* Lab14 手機控制藍芽+風扇(或牙刷型USB燈)
-* Lab15 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
-* Lab16 麥克風實驗
+* Lab11 繼電器
+* Lab12 超音波感測器   電子尺
+* Lab13 藍芽控制
+* Lab14 手機控制藍芽 LED
+* Lab15 手機控制藍芽+風扇(或牙刷型USB燈)
+* Lab16 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
+* Lab17 麥克風實驗
     * https://diyi0t.com/sound-sensor-arduino-esp8266-esp32/
 ##
