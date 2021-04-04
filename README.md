@@ -18,15 +18,16 @@
 </pre>
 ##
 #### Reference
-* https://github.com/jumbokh/esp32-class
-* https://youyouyou.pixnet.net/blog/post/119410732?pixfrom=related
-* https://randomnerdtutorials.com/getting-started-with-esp32/
-* https://idyl.io/doit-esp32-development-board-review/
-* https://diyi0t.com/active-passive-buzzer-arduino-esp8266-esp32/
-* https://techtutorialsx.com/2017/07/01/esp32-arduino-controlling-a-buzzer-with-pwm/
-* https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody
-* https://atommann.github.io/learn/rc-circuit/rc-circuit.html
+* [my ref. 1](https://github.com/jumbokh/esp32-class)
+* [my ref. 2](https://youyouyou.pixnet.net/blog/post/119410732?pixfrom=related)
+* [esp32 getting started](https://randomnerdtutorials.com/getting-started-with-esp32/)
+* [DOIT board](https://idyl.io/doit-esp32-development-board-review/)
+* [esp32 buzzer](https://diyi0t.com/active-passive-buzzer-arduino-esp8266-esp32/)
+* [buzzer](https://techtutorialsx.com/2017/07/01/esp32-arduino-controlling-a-buzzer-with-pwm/)
+* [tone](https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody)
+* [rc](https://atommann.github.io/learn/rc-circuit/rc-circuit.html)
 * [IFTTT](https://youyouyou.pixnet.net/blog/post/119623728)
+* [紅外線](https://openhome.cc/Gossip/CodeData/mBlockArduino/mBlockArduino11.html)
 
 ##
 * ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
