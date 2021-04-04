@@ -27,6 +27,7 @@ const int analogOutPin = 12; // Analog output pin that the LED is attached to
 int sensorValue = 0;        // value read from the pot
 int outputValue = 0;        // value output to the PWM (analog out)
 
+
 // setting PWM properties
 const int freq = 5000;
 const int ledChannel = 0;
@@ -39,14 +40,14 @@ void setup() {
   // attach the channel to the GPIO to be controlled
   ledcAttachPin(analogOutPin, ledChannel);
   // initialize serial communications at 9600 bps:
-  Serial.begin(9600);
+  Serial.begin(115200);
 }
 
 void loop() {
   // read the analog in value:
   sensorValue = analogRead(analogInPin);
   // map it to the range of the analog out:
-  outputValue = map(sensorValue, 0, 1023, 0, 255);
+  outputValue = map(sensorValue, 0, 4096, 0, 255);
   // change the analog out value:
   ledcWrite(ledChannel, outputValue);
 
