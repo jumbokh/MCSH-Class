@@ -26,6 +26,7 @@
 * https://techtutorialsx.com/2017/07/01/esp32-arduino-controlling-a-buzzer-with-pwm/
 * https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody
 * https://atommann.github.io/learn/rc-circuit/rc-circuit.html
+* [IFTTT](https://youyouyou.pixnet.net/blog/post/119623728)
 
 ##
 * ![DOIT ESP32](https://github.com/jumbokh/MCSH-Class/blob/main/images/ESP32-DOIT-DEVKIT-V1-Board-Pinout-30-GPIOs-Copy.png)
