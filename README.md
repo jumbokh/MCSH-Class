@@ -1,4 +1,5 @@
 # MCSH-Class
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ### Let $\text{V(t)} = $\text{Vo}* $\exp$-$\frac{t}{RC}$
 #### 課程: ESP32 實作業師課程
 #### 時間: 3/2 3/16 3/23 4/6 4/20 4/27週二 13：10-14：50
