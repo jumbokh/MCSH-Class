@@ -79,7 +79,7 @@
 ##
 ### 步驟 1. 執行, 打開串列埠監視視窗, RESET, 按鈕開始充電
 ### 步驟 2. 從監視視窗複製資料, 貼到文字檔, 儲存為 xxx.csv
-### 步驟 3. 新增 Excel 檔, 
+### 步驟 3. 新增 Excel 檔,複製 xxx.csv 的資料到第三欄 
 <pre>
 Title: 
                                  No.  Calculate   Run
