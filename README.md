@@ -1,5 +1,5 @@
 # MCSH-Class
-### Let V(t) = Vo* e^{-t/RC}
+
 #### 課程: ESP32 實作業師課程
 #### 時間: 3/2 3/16 3/23 4/6 4/20 4/27週二 13：10-14：50
 #### 材料: [清單](https://github.com/jumbokh/MCSH-Class/blob/main/%E6%98%8E%E8%AA%A0%E4%B8%AD%E5%AD%B8%E5%AF%A6%E7%BF%92%E6%9D%90%E6%96%99%E9%9C%80%E6%B1%82%E8%A1%A8-%E7%89%A9%E8%81%AF%E7%B6%B2Arduino.doc)
@@ -75,9 +75,9 @@
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
     * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8RCex/Lab8RCex.ino)
 ##
-### Let $\text{V(t)} = Vo* $\exp$-$\frac{t}{RC}$$
+### Let V(t) = Vo* e^{-t/RC}
 ##
-#### 3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
+#### =3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
 * Lab9 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
 * Lab10 LCD1602       字串顯示
