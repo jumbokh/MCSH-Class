@@ -80,15 +80,15 @@
 ### 步驟 1. 執行, 打開串列埠監視視窗, RESET, 按鈕開始充電
 ### 步驟 2. 從監視視窗複製資料, 貼到文字檔, 儲存為 xxx.csv
 ### 步驟 3. 新增 Excel 檔, 
-'''
+<pre>
 Title: No.  Calculate   Run
                                   0    0          0
                                   ...
-'''
+</pre>
 #### 公式:
-'''
+<pre>
 =3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
-'''
+</pre>
 * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3.JPG)
 ##
 * Lab9 DHT11 溫溼度感測器
