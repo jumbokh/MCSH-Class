@@ -90,6 +90,7 @@ Title:
 <pre>
 =3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
 </pre>
+### 步驟 4. 插入折線圖
 * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3.JPG)
 ##
 * Lab9 DHT11 溫溼度感測器
