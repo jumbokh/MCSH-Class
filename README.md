@@ -74,7 +74,7 @@
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
     * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8RCex/Lab8RCex.ino)
 ##
-###  V(t) = Vo* $\exp$-$\frac{t}{RC}$
+### Let "V(t) = Vo* $\exp$-$\frac{t}{RC}$"
 ##
 #### 3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
 * Lab9 DHT11 溫溼度感測器
