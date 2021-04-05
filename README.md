@@ -81,7 +81,8 @@
 ### 步驟 2. 從監視視窗複製資料, 貼到文字檔, 儲存為 xxx.csv
 ### 步驟 3. 新增 Excel 檔, 
 <pre>
-Title: No.  Calculate   Run
+Title: 
+                                 No.  Calculate   Run
                                   0    0          0
                                   ...
 </pre>
