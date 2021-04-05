@@ -73,7 +73,7 @@
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab8 RC 電路實驗
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
-    * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8RCex/Lab8RCex.ino)
+    * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8-0RCex/Lab8-0RCex.ino)
 ##
 ### Let V(t) = Vo* e^{-t/RC}
 ##
