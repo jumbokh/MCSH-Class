@@ -69,6 +69,8 @@
 * ![小星星簡譜](https://github.com/jumbokh/esp32-class/blob/master/images/%E5%B0%8F%E6%98%9F%E6%98%9F%E7%B0%A1%E8%AD%9C.png)
 ##
 * Lab7 光敏電阻
+    * 分壓電路
+    * ![Rdiv](https://github.com/jumbokh/MCSH-Class/blob/main/images/Rdiv.JPG)
     * ![photoresistor](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/esp32-photo_bb.jpg)
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab8 RC 電路實驗
