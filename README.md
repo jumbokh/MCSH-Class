@@ -73,6 +73,9 @@
 * Lab8 RC 電路實驗
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
     * [RCex](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8RCex/Lab8RCex.ino)
+\begin{equation}
+e^{\frac{y^2}{4}}
+\end{equation}
 #### 3.3*(1-EXP(1)^(-A2/(10000*0.0022)))
 * Lab9 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
