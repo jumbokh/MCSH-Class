@@ -107,17 +107,17 @@ Title:
 * 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
 * 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
 ##
-* Lab9 DHT11 溫溼度感測器
+* Lab10 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
-* Lab10 LCD1602       字串顯示
+* Lab11 LCD1602       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
 ##
-* Lab11 繼電器
-* Lab12 超音波感測器   電子尺
-* Lab13 藍芽控制
-* Lab14 手機控制藍芽 LED
-* Lab15 手機控制藍芽+風扇(或牙刷型USB燈)
-* Lab16 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
-* Lab17 麥克風實驗
+* Lab12 繼電器
+* Lab13 超音波感測器   電子尺
+* Lab14 藍芽控制
+* Lab15 手機控制藍芽 LED
+* Lab16 手機控制藍芽+風扇(或牙刷型USB燈)
+* Lab17 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
+* Lab18 麥克風實驗
     * https://diyi0t.com/sound-sensor-arduino-esp8266-esp32/
 ##
