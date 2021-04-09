@@ -102,7 +102,7 @@ Title:
 * Lab9-2 [SimpleWiFiServer](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-2SimpleWiFiServer/Lab9-2SimpleWiFiServer.ino)
 * Lab9-3 [Cloud Data Logger](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-3cloud_data_logger/Lab9-3cloud_data_logger.ino)
 * Lab9-4 [Data to Google Sheets]()
-### [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
+### 講義: [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
 ### iFTTT: https://ifttt.com/home
 * 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
 * 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
