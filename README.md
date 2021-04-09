@@ -97,13 +97,19 @@ Title:
 ### 步驟 5. 修改程式, 將資料添加到陣列
 * [Sendout](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab8-1RCSend/Lab8-1RCSend.ino)
 ##
+* Lab 9 WiFi 連接
+* Lab9-1 [WiFi scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-1wifi_scan/Lab9-1wifi_scan.ino)
+* Lab9-2 [SimpleWiFiServer](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-2SimpleWiFiServer/Lab9-2SimpleWiFiServer.ino)
+* Lab9-3 [Cloud Data Logger](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-3cloud_data_logger/Lab9-3cloud_data_logger.ino)
+* Lab9-4 [Data to Google Sheets]()
+### [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
+### iFTTT: https://ifttt.com/home
+* 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
+##
 * Lab9 DHT11 溫溼度感測器
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
 * Lab10 LCD1602       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
-##
-### iFTTT: https://ifttt.com/home
-* 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
 ##
 * Lab11 繼電器
 * Lab12 超音波感測器   電子尺
