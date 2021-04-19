@@ -71,7 +71,7 @@
 * Lab7 光敏電阻
     * 分壓電路
     * ![Rdiv](https://github.com/jumbokh/MCSH-Class/blob/main/images/Rdiv.JPG)
-    * ![photoresistor](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/esp32-photo_bb.jpg)
+    * ![photoresistor](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-photo_bb.jpg)
     * [AnalogInOutSerial](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab7AnalogInOutSerial/Lab7AnalogInOutSerial.ino)
 * Lab8 RC 電路實驗
     * ![RC](https://github.com/jumbokh/MCSH-Class/blob/main/images/RC3v3R10kC2200u_bb.jpg)
@@ -101,9 +101,10 @@ Title:
 * Lab9-1 [WiFi scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-1wifi_scan/Lab9-1wifi_scan.ino)
 * Lab9-2 [SimpleWiFiServer](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-2SimpleWiFiServer/Lab9-2SimpleWiFiServer.ino)
 * Lab9-3 [Cloud Data Logger](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-3cloud_data_logger/Lab9-3cloud_data_logger.ino)
-* Lab9-4 [Data to Google Sheets]()
+* Lab9-4 Data to Google Sheets
 ##
 ### Lab10 DHT11 溫溼度感測器
+* ![DHT11 3pin](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-dht113pin_bb.jpg)
 #### 需要安裝程式庫:
 * [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
 * [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
