@@ -103,13 +103,13 @@ Title:
 * Lab9-3 [Cloud Data Logger](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-3cloud_data_logger/Lab9-3cloud_data_logger.ino)
 * Lab9-4 [Data to Google Sheets]()
 ##
-* Lab10 DHT11 溫溼度感測器
-* 需要安裝程式庫:
-    * [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
-    * [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
-    * [ESP32 DHT11 Test](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10DHTtester/Lab10DHTtester.ino)  
-* LCD1602       字串顯示
-* [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
+### Lab10 DHT11 溫溼度感測器
+#### 需要安裝程式庫:
+* [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
+* [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
+* [ESP32 DHT11 Test](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10DHTtester/Lab10DHTtester.ino)  
+##
+
 * [DHT Web Server](https://github.com/jumbokh/MCSH-Class/tree/main/LAB/Lab10-1Web_Server_DHT)
     * 需要安裝程式庫:
      * [AsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/AsyncTCP.zip)
@@ -118,6 +118,9 @@ Title:
     * 變換 ICON: [the Font Awesome Icons website](https://fontawesome.com/icons?d=gallery&p=2)
 * 參考 [ESP32 DHT11/DHT22 Web Server – Temperature and Humidity using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/)
 * ![DHT Web Server](https://github.com/jumbokh/MCSH-Class/blob/main/images/DHTWeb.JPG)
+##
+### LCD1602       字串顯示
+* [Lab11 LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
 ##
 * Lab12 繼電器
 * Lab13 超音波感測器   電子尺
