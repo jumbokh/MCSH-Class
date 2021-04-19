@@ -111,6 +111,8 @@ Title:
     * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
 * Lab11 LCD1602       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
+* [DHT Web Server]()
+* 參考 [ESP32 DHT11/DHT22 Web Server – Temperature and Humidity using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/)
 ##
 * Lab12 繼電器
 * Lab13 超音波感測器   電子尺
