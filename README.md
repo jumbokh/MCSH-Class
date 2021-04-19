@@ -104,12 +104,12 @@ Title:
 * Lab9-4 [Data to Google Sheets]()
 ##
 * Lab10 DHT11 溫溼度感測器
-    * [ESP32 DHT11 Test](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10DHTtester/Lab10DHTtester.ino)
-    * 需要安裝程式庫:
-          * [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
-          * [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
-    * Lab11 LCD1602       字串顯示
-    * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
+* 需要安裝程式庫:
+    * [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
+    * [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
+    * [ESP32 DHT11 Test](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10DHTtester/Lab10DHTtester.ino)  
+* LCD1602       字串顯示
+* [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
 * [DHT Web Server](https://github.com/jumbokh/MCSH-Class/tree/main/LAB/Lab10-1Web_Server_DHT)
     * 需要安裝程式庫:
      * [AsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/AsyncTCP.zip)
