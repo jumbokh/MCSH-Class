@@ -116,7 +116,7 @@ Title:
      * [AsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/AsyncTCP.zip)
      * [ESPAsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/ESPAsyncTCP.zip)
      * [ESPAsyncWebServer](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/ESPAsyncWebServer.zip)
-    * 變換 ICON: [the Font Awesome Icons website](https://fontawesome.com/icons?d=gallery&p=2)
+* 變換網頁顯示 ICON: [the Font Awesome Icons website](https://fontawesome.com/icons?d=gallery&p=2)
 * 參考 [ESP32 DHT11/DHT22 Web Server – Temperature and Humidity using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/)
 * ![DHT Web Server](https://github.com/jumbokh/MCSH-Class/blob/main/images/DHTWeb.JPG)
 ##
