@@ -126,14 +126,14 @@ Title:
 </p>
 </pre>
 ##
-<pre>
+'''
 <p>
   <i class="fas fa-tint" style="color:#00add6;"></i> 
   <span class="dht-labels">Humidity</span>
   <span id="humidity">%HUMIDITY%</span>
   <sup class="units">%</sup>
 </p>
-</pre>
+'''
 * 參考 [ESP32 DHT11/DHT22 Web Server – Temperature and Humidity using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/)
 * ![DHT Web Server](https://github.com/jumbokh/MCSH-Class/blob/main/images/DHTWeb.JPG)
 ##
