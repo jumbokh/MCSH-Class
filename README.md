@@ -108,10 +108,13 @@ Title:
 * 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
 ##
 * Lab10 DHT11 溫溼度感測器
-    * [ESP32 DHT11](https://youyouyou.pixnet.net/blog/post/120275893-%E7%AC%AC%E4%B9%9D%E7%AF%87-esp32-%E6%BA%AB%E6%BF%95%E5%BA%A6%E9%A1%AF%E7%A4%BA%E5%99%A8%28dht11%2B1602-lcd%29)
-* Lab11 LCD1602       字串顯示
+    * [ESP32 DHT11 Test](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10DHTtester/Lab10DHTtester.ino)
+    * 需要安裝程式庫:
+          * [Adafruit Unified Sensor Driver](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/Adafruit_Sensor.zip)
+          * [DHT Sensor Library](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/DHT-sensor-library.zip)
+    * Lab11 LCD1602       字串顯示
     * [LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
-* [DHT Web Server](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/WiFi_Web_Server_DHT/WiFi_Web_Server_DHT.ino)
+* [DHT Web Server](https://github.com/jumbokh/MCSH-Class/tree/main/LAB/Lab10-1Web_Server_DHT)
     * 需要安裝程式庫:
           * [AsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/AsyncTCP.zip)
           * [ESPAsyncTCP](https://github.com/jumbokh/MCSH-Class/blob/main/libraries/ESPAsyncTCP.zip)
