@@ -129,16 +129,21 @@ Title:
 * [LCD Library](https://circuits4you.com/wp-content/uploads/2019/03/I2C-LCD-ESP8266-Library.zip)
 ##
 ### 測試LCD
-* [I2C Scan](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/I2CScan/I2CScan.ino)
-* [lcd I2C](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdi2c/lcdi2c.ino)
-* [lcd Scroll](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdI2cScroll/lcdI2cScroll.ino)
-* * Lab9-4 Data to Google Sheets
-##
+* [Lab11-0 I2C Scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11I2CScan/Lab11I2CScan.ino)
+* [Lab11-1 lcd I2C Hello World](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-0lcdi2c/Lab11-0lcdi2c.ino)
+* [Lab11-2 lcd Scroll](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-2lcdI2cScroll/Lab11-2lcdI2cScroll.ino)
 ### 整合 DHT 與 LCD
-* [DHT LCD](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/dhtlcdScroll/dhtlcdScroll.ino)
-##
 ### 參考範例
 * [ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
+* [Lab11-3 DHT LCD](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-3DHTLCD/Lab11-3DHTLCD.ino)
+##
+* ### 講義: [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
+* ### iFTTT: https://ifttt.com/home
+* ### 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
+* ### 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
+* Lab11-4 [DHT Data to Google Sheets](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab10-1iFTTT/Lab10-1iFTTT.ino)
+* Lab11-5 [DHT Data to Google Sheets + LCD (SimpleDHT)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5iFTTTlcd/Lab11-5iFTTTlcd.ino)
+* Lab11-5a [DHT Data to Google Sheets + LCD (Adafruit DHT Sensor Library)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5aiFTTTlcd/Lab11-5aiFTTTlcd.ino)
 ##
 * Lab12 繼電器
 * Lab13 超音波感測器   電子尺
@@ -148,9 +153,4 @@ Title:
 * Lab17 [步頻計數器](https://github.com/jumbokh/esp32-class/tree/master/Lab-walk)
 * Lab18 麥克風實驗
     * https://diyi0t.com/sound-sensor-arduino-esp8266-esp32/
-##
-### 講義: [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
-### iFTTT: https://ifttt.com/home
-* 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
-* 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
 ##
