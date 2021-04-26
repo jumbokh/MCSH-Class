@@ -122,7 +122,6 @@ Title:
 * ![DHT Web Server](https://github.com/jumbokh/MCSH-Class/blob/main/images/DHTWeb.JPG)
 ##
 ### LCD1602       字串顯示
-* [Lab11 LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
 ![ESP32+LCD](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/07/esp32_LCD_bb.png)
 ![連接](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-I2C-LCD-Interfacing.png)
 #### 安裝程式庫
