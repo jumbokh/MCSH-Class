@@ -133,9 +133,9 @@ Title:
 * [Lab11-1 lcd I2C Hello World](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-0lcdi2c/Lab11-0lcdi2c.ino)
 * [Lab11-2 lcd Scroll](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-2lcdI2cScroll/Lab11-2lcdI2cScroll.ino)
 ### 整合 DHT 與 LCD
+* [Lab11-3 DHT LCD](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-3DHTLCD/Lab11-3DHTLCD.ino)
 ### 參考範例
 * [ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
-* [Lab11-3 DHT LCD](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-3DHTLCD/Lab11-3DHTLCD.ino)
 ##
 * ### 講義: [iFTTT 講義](https://github.com/jumbokh/MCSH-Class/blob/main/docs/ESP32-iFTTT.pptx)
 * ### iFTTT: https://ifttt.com/home
