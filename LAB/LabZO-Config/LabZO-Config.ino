@@ -3,8 +3,8 @@
 #include <ESPmDNS.h>
 
 const char* host = "jarvis";
-const char* ssid = "Tenda_5295A0";
-const char* password = "0953313123";
+const char* ssid = "{Your-SSID}";
+const char* password = "{Your Key}";
 
 AsyncWebServer server(80);
 
