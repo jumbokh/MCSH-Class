@@ -8,12 +8,12 @@ int pinDHT11 =5; //set dht11 at pin2
 SimpleDHT11 dht11(pinDHT11);
 
 WiFiMulti wifiMulti;
-char* WifiSSID="Tenda_5295A0";
-char* WifiPassword="0953313123";
+char* WifiSSID="{Your-SSID}";
+char* WifiPassword="{Your-Key}";
 //1.replace https with http 
 //2.replace youreventname with your  event name
 //3.replace yourkey at the end of url with your key
-String IFTTTUrl="http://maker.ifttt.com/trigger/LASS/with/key/cBVp_iFaovrfRFXjy8P4rn";
+String IFTTTUrl="http://maker.ifttt.com/trigger/{Your Event Name}/with/key/{Your iFTTT Key}";
 void setup() {
     Serial.begin(115200);
     Serial.println();
