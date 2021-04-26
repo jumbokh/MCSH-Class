@@ -146,6 +146,10 @@ Title:
 * Lab11-5a [DHT Data to Google Sheets + LCD (Adafruit DHT Sensor Library)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5aiFTTTlcd/Lab11-5aiFTTTlcd.ino)
 ##
 * Lab12 繼電器
+* ![1 channel relay](https://github.com/jumbokh/MCSH-Class/blob/main/images/relay1c.jpg)
+* ![線路圖](https://github.com/jumbokh/MCSH-Class/blob/main/images/relay.png)
+* [Lab12 - 開啟關閉](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab12Relay/Lab12Relay.ino)
+##
 * Lab13 超音波感測器   電子尺
 * Lab14 藍芽控制
 * Lab15 手機控制藍芽 LED
