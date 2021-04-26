@@ -6,15 +6,37 @@
 #include <SimpleDHT.h>
 int pinDHT11 =5; //set dht11 at pin2
 SimpleDHT11 dht11(pinDHT11);
+#include <LiquidCrystal_I2C.h>
+
+// set the LCD number of columns and rows
+int lcdColumns = 16;
+int lcdRows = 2;
+String messageStatic = "Temp. & Humidity";
+LiquidCrystal_I2C lcd(0x20, lcdColumns, lcdRows);  
+void scrollText(int row, String message, int delayTime, int lcdColumns) {
+  for (int i=0; i < lcdColumns; i++) {
+    message = " " + message;  
+  } 
+  message = message + " "; 
+  for (int pos = 0; pos < message.length(); pos++) {
+    lcd.setCursor(0, row);
+    lcd.print(message.substring(pos, pos + lcdColumns));
+    delay(delayTime);
+  }
+}
 
 WiFiMulti wifiMulti;
-char* WifiSSID="Tenda_5295A0";
-char* WifiPassword="0953313123";
+char* WifiSSID="{Your-SSID}";
+char* WifiPassword="{Your-Key}";
 //1.replace https with http 
 //2.replace youreventname with your  event name
 //3.replace yourkey at the end of url with your key
-String IFTTTUrl="http://maker.ifttt.com/trigger/LASS/with/key/cBVp_iFaovrfRFXjy8P4rn";
+String IFTTTUrl="http://maker.ifttt.com/trigger/{Your-event Name}/with/key/{Your iFTTT Key}";
 void setup() {
+  // initialize LCD
+  lcd.init();
+  // turn on LCD backlight                      
+  lcd.backlight();
     Serial.begin(115200);
     Serial.println();
     wifiMulti.addAP(WifiSSID, WifiPassword);  
@@ -26,6 +48,9 @@ void setup() {
 }
 
 void loop() {
+    lcd.setCursor(0, 0);
+    lcd.print(messageStatic);
+    delay(2000);
     // wait for WiFi connection
     if((wifiMulti.run() == WL_CONNECTED)) {
         //=======Reading dht11 data==============
@@ -41,6 +66,17 @@ void loop() {
         Serial.print("Reading OK: ");      
         //=======dht11 data read==========
         //regenerate url string with temp and humd
+        //LCD
+        Serial.print(F("Humidity: "));
+        Serial.print((int)humidity);
+        Serial.print(F("%  Temperature: "));
+        Serial.print((int)temperature);
+        char nmsg[20];
+        sprintf(nmsg,"%5d , %3d%s",(int)temperature,(int)humidity,"\%");
+        Serial.println(nmsg);
+        scrollText(1, nmsg, 250,lcdColumns);
+
+        //IFTTT
         String url=IFTTTUrl+"?value1="+String((int)temperature)+"&value2="+String((int)humidity);        
 
         //Start to send data to IFTTT
