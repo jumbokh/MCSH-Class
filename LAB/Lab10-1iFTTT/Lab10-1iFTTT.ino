@@ -4,7 +4,7 @@
 //pls use sketch/include library/manage library find simpledht by winlin 
 //or you can use another library
 #include <SimpleDHT.h>
-int pinDHT11 = 2; //set dht11 at pin2
+int pinDHT11 =5; //set dht11 at pin2
 SimpleDHT11 dht11(pinDHT11);
 
 WiFiMulti wifiMulti;
@@ -13,7 +13,7 @@ char* WifiPassword="YouPassword";
 //1.replace https with http 
 //2.replace youreventname with your  event name
 //3.replace yourkey at the end of url with your key
-String IFTTTUrl="http://maker.ifttt.com/trigger/youreventname/with/key/yourkey";
+String IFTTTUrl="http://maker.ifttt.com/trigger/{youreventname}/with/key/{yourkey}";
 void setup() {
     Serial.begin(115200);
     Serial.println();
