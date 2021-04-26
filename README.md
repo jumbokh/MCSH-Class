@@ -141,6 +141,7 @@ Title:
 ### 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
 ### 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
 * Lab11-4 [DHT Data to Google Sheets (SimpleDHT)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-4iFTTT/Lab11-4iFTTT.ino)
+* Lab11-4a [DHT Data to Google Sheets (Adafruit DHT Sensor Library)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-4aiFTTT/Lab11-4aiFTTT.ino)
 * Lab11-5 [DHT Data to Google Sheets + LCD (SimpleDHT)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5iFTTTlcd/Lab11-5iFTTTlcd.ino)
 * Lab11-5a [DHT Data to Google Sheets + LCD (Adafruit DHT Sensor Library)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5aiFTTTlcd/Lab11-5aiFTTTlcd.ino)
 ##
