@@ -101,7 +101,6 @@ Title:
 * Lab9-1 [WiFi scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-1wifi_scan/Lab9-1wifi_scan.ino)
 * Lab9-2 [SimpleWiFiServer](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-2SimpleWiFiServer/Lab9-2SimpleWiFiServer.ino)
 * Lab9-3 [Cloud Data Logger](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab9-3cloud_data_logger/Lab9-3cloud_data_logger.ino)
-* Lab9-4 Data to Google Sheets
 ##
 ### Lab10 DHT11 溫溼度感測器
 * ![DHT11 3pin](https://github.com/jumbokh/MCSH-Class/blob/main/images/esp32-dht113pin_bb.jpg)
@@ -133,6 +132,7 @@ Title:
 * [I2C Scan](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/I2CScan/I2CScan.ino)
 * [lcd I2C](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdi2c/lcdi2c.ino)
 * [lcd Scroll](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdI2cScroll/lcdI2cScroll.ino)
+* * Lab9-4 Data to Google Sheets
 ##
 ### 整合 DHT 與 LCD
 * [DHT LCD](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/dhtlcdScroll/dhtlcdScroll.ino)
