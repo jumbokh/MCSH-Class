@@ -128,8 +128,8 @@ Title:
 * [LCD Library](https://circuits4you.com/wp-content/uploads/2019/03/I2C-LCD-ESP8266-Library.zip)
 ##
 ### 測試LCD
-* [Lab11-0 I2C Scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11I2CScan/Lab11I2CScan.ino)
-* [Lab11-1 lcd I2C Hello World](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-0lcdi2c/Lab11-0lcdi2c.ino)
+* [Lab11-0 I2C Scan](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-0I2CScan/Lab11-0I2CScan.ino)
+* [Lab11-1 lcd I2C Hello World](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-1lcdi2cHelloWorld/Lab11-1lcdi2cHelloWorld.ino)
 * [Lab11-2 lcd Scroll](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-2lcdI2cScroll/Lab11-2lcdI2cScroll.ino)
 ### 整合 DHT 與 LCD
 * [Lab11-3 DHT LCD](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-3DHTLCD/Lab11-3DHTLCD.ino)
@@ -140,7 +140,7 @@ Title:
 * ### iFTTT: https://ifttt.com/home
 * ### 參考 [夜市小霸王: 尤老師介紹如何將資料送至 Google Documents](https://youyouyou.pixnet.net/blog/post/119623728)
 * ### 參考 [ESP32 Publish Sensor Readings to Google Sheets](https://randomnerdtutorials.com/esp32-esp8266-publish-sensor-readings-to-google-sheets/)
-* Lab11-4 [DHT Data to Google Sheets](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-4iFTTT/Lab11-4iFTTT.ino)
+* Lab11-4 [DHT Data to Google Sheets (SimpleDHT)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-4iFTTT/Lab11-4iFTTT.ino
 * Lab11-5 [DHT Data to Google Sheets + LCD (SimpleDHT)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5iFTTTlcd/Lab11-5iFTTTlcd.ino)
 * Lab11-5a [DHT Data to Google Sheets + LCD (Adafruit DHT Sensor Library)](https://github.com/jumbokh/MCSH-Class/blob/main/LAB/Lab11-5aiFTTTlcd/Lab11-5aiFTTTlcd.ino)
 ##
