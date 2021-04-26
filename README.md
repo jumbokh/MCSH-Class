@@ -124,6 +124,21 @@ Title:
 ##
 ### LCD1602       字串顯示
 * [Lab11 LCD1602](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/README.md)
+![ESP32+LCD](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/07/esp32_LCD_bb.png)
+![連接](https://github.com/jumbokh/esp32-class/blob/master/images/ESP32-I2C-LCD-Interfacing.png)
+#### 安裝程式庫
+* [LCD Library](https://circuits4you.com/wp-content/uploads/2019/03/I2C-LCD-ESP8266-Library.zip)
+##
+### 測試LCD
+* [I2C Scan](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/I2CScan/I2CScan.ino)
+* [lcd I2C](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdi2c/lcdi2c.ino)
+* [lcd Scroll](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/lcdI2cScroll/lcdI2cScroll.ino)
+##
+### 整合 DHT 與 LCD
+* [DHT LCD](https://github.com/jumbokh/esp32-class/blob/master/arduino0920/dhtlcdScroll/dhtlcdScroll.ino)
+##
+### 參考範例
+* [ESP32 with DHT11/DHT22 Temperature and Humidity Sensor using Arduino IDE](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
 ##
 * Lab12 繼電器
 * Lab13 超音波感測器   電子尺
